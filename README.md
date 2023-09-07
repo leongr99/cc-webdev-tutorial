@@ -5,5 +5,7 @@
 
 - Dynamische Daten in html durch "templating syntax" einfügen (Flask Funktion) --> {{XXX}}
 - Templating ermöglicht for, if etc.
+
+- requirements.txt ist eine Python-Convention .txt, die benötigte Libraries enthält
 TODO:
 - add favicon
