@@ -11,13 +11,13 @@ JOBS = [
         'id' : 2,
     'title' : 'Frontend Engineer',
     'location': 'Kiel',
-    'salary' : '45.000€',
+    'salary' : '55.000€',
     },
         {
         'id' : 3,
-    'title' : 'Data Analyst',
+    'title' : 'Data Analyst Senior',
     'location': 'Remote',
-    'salary' : '30.000€',
+    'salary' : '130.000€',
     },
             {
         'id' : 4,
