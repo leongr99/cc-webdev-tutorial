@@ -11,4 +11,7 @@
 - gunicorn ist ein ein Python WSGI HTTP Server for UNIX (ggf. interessant für echtes projekt)
 
 TODO:
-- add favicon
+- part 2 tutorial
+- comments in code
+- project documwntatuin in general
+- optional:add favicon
